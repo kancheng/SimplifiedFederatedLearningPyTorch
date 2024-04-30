@@ -1,6 +1,14 @@
 # Federated Learning PyTorch
 Simplified implementation of Federated Learning in PyTorch
 
+## Note
+
+```
+Python 3.11, PyTorch 2.2.2
+```
+
+版本更新到最新版本，同時增加了判斷 GPU & CPU 的部分。
+
 ## Other
 
 1. 針對有影像分割的 Federated Learning with PyTorch : https://github.com/kancheng/fed-unet-init-test
