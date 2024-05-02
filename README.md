@@ -7,7 +7,7 @@ Simplified implementation of Federated Learning in PyTorch
 Python 3.11, PyTorch 2.2.2
 ```
 
-版本更新到最新版本，同時增加了判斷 GPU & CPU 的部分。
+版本更新到最新版本，同時增加了判斷 GPU & CPU 的部分與中央化訓練。
 
 ## Other
 
