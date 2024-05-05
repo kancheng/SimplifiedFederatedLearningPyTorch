@@ -18,3 +18,5 @@ Python 3.11, PyTorch 2.2.2
 
 H. Brendan McMahan et al., "Communication-efficient learning of deep networks from decentralized data", AISTATS'17
 https://arxiv.org/abs/1602.05629
+
+Su, Lili, Jiaming Xu, and Pengkun Yang. "A Non-parametric View of FedAvg and FedProx: Beyond Stationary Points." arXiv preprint arXiv:2106.15216 (2021). https://arxiv.org/abs/2106.15216 https://github.com/erfunmirzaei/FedAvg-FedProx
